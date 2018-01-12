@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Introduction">Welcome to Our Quiz Application ! </string>
+    <string name="Question1">Question 1</string>
+    <string name="Question1_1">What is The Number of Continent in the World ? </string>
+    <string name="Question2">Question 2</string>
+    <string name="Question2_1"> What is The Number of American States ?</string>
+    <string name="Question3">Question 3</string>
+    <string name="Question3_1"> Which of the following Countries is in Africa ?</string>
+    <string name="Answer3_1"> Egypt</string>
+    <string name="Answer3_2"> America</string>
+    <string name="Answer3_3"> Morocco</string>
+    <string name="Answer3_4"> Japan</string>
+    <string name="Question4">Question 4</string>
+    <string name="Question4_1"> Which of The Following is Kink Of Birds ?</string>
+    <string name="Answer4_1"> Dog</string>
+    <string name="Answer4_2"> Hoopoe</string>
+    <string name="Answer4_3"> Cat</string>
+    <string name="Answer4_4"> Falcon</string>
+    <string name="Question5">Question 5</string>
+    <string name="Question5_1">What Is The Name of The Messenger of Islam ? </string>
+</resources>
